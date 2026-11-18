@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Details</title>
+</head>
+<body>
+    <h1>My Personal Details</h1>
+
+    <p><b>Name:</b> Shreyash Arun More</p>
+
+    <p><i>Email:</i> shreyashmore430@gmail.com</p>
+
+    <p><u>Address:</u> Sangamner, Maharashtra, India</p>
+
+    <p><strong>Hobbies:</strong> Cricket, Football</p>
+
+</body>
+</html>
